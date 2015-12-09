@@ -1,5 +1,5 @@
 {
-    "name": "adamwathan/eloquent-oauth-l5",
+    "name": "arielshad/eloquent-oauth-l5",
     "description": "Stupid simple OAuth authentication with Laravel and Eloquent",
     "authors": [
     {
@@ -10,7 +10,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5.0",
-        "adamwathan/eloquent-oauth": "^8.0",
+        "arielshad/eloquent-oauth": "^8.0",
         "guzzlehttp/guzzle": "^6.0"
     },
     "autoload": {
